@@ -1,0 +1,89 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+  }
+  body {
+     height: 100%;
+  }
+
+  header {
+      background-color:#f08edf;
+      padding:5px;
+      font-size: 55px;
+      display: block;
+      width: 95%;
+      text-align: center;
+      border: 10px solid black;
+      font-family: 'Staatliches', cursive;
+      align-content: center;
+      font
+      
+  }
+  nav {
+      list-style: height 50%;;
+      background-color:
+      width:225px;
+      display: inline-block;
+      vertical-align: top;
+  }
+  nav ul {
+      list-style-type: none;
+      line-height:225%;
+      
+  }
+  a {
+      color: #0a0a0a;
+  }
+  section {
+      width: 80%;
+      display: inline-block;
+  }
+
+.medpic{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+
+}
+
+  aside {
+    width: 125px;
+    display: inline-block;
+    vertical-align: top;
+    background-color:#;
+    font-size: 25px;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      text-align:;
+      padding:5px;
+      display: block;
+  }
+  p {
+      font-family:  'Oxygen', sans-serif;
+      text-align: center;
+    
+  }
+  body {
+      background-color: #E2E4EB;
+      width: 90%;
+
+  }
+  h2 {
+      font-size: 30px;
+      font-family:  'Oxygen', sans-serif;
+      font-style: italic;
+      text-align: center;
+      
+
+  }
